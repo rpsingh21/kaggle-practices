@@ -1,0 +1,27 @@
+# Kagglehub
+kaggle-environments
+kagglehub
+
+# Jupyter
+jupyter
+
+# Models
+scikit-learn
+ipython
+catboost
+xgboost
+lightgbm
+torch
+optuna
+
+# Frontend
+streamlit
+
+# PyTorch
+torch
+torchvision
+torchaudio
+tensorboard
+
+# Lightning
+lightning
