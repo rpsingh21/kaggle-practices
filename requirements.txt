@@ -11,7 +11,6 @@ ipython
 catboost
 xgboost
 lightgbm
-torch
 optuna
 
 # Frontend
@@ -23,5 +22,5 @@ torchvision
 torchaudio
 tensorboard
 
-# Lightning
+# Torch Lightning
 lightning

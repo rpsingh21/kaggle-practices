@@ -161,6 +161,7 @@ cython_debug/
 
 # Models logs and output
 output
+outputs
 
 lightning_logs
 
